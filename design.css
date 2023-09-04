@@ -1,12 +1,14 @@
 div{
     text-align: left;
     font-size: 50px;
+    background-color: goldenrod;
 }
-#title{
+.title{
     text-align: center;
     font-weight: bold;
     font-size: 60px;
     font-style: "times new roman";
+    
 }
 #image{
 
