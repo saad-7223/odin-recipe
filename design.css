@@ -1,0 +1,22 @@
+div{
+    text-align: left;
+    font-size: 50px;
+}
+#title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    font-style: "times new roman";
+}
+#image{
+
+    text-align: center;
+}
+li,p{
+    font-size: 25px;
+}
+button ,a{
+    font-size: 20px;
+    color: red;
+    text-decoration: none;
+}
