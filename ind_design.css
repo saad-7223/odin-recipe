@@ -1,0 +1,32 @@
+.back{
+    background-color: blanchedalmond;
+}
+#title{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(187, 71, 71);
+    color: blanchedalmond;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+#image{
+    border: 10px solid black;
+    width: 700px;
+    height: 500px;
+}
+a{
+    text-decoration: none;
+    font-size: 50px;
+    color: blanchedalmond;
+}
+button{
+    background-color: rgb(187,71,71);
+}
+img{
+    height: 100px;
+    width: auto;
+    align-items: center;
+}
